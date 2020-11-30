@@ -1,0 +1,703 @@
+2020-03-11 16:18:27   INFO [screens.MainScreen] : Text on header are visible
+2020-03-11 16:19:06   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 16:24:12   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 16:24:17  ERROR [libs.ActionsWithElements] : Can not work with element
+2020-03-11 16:27:06   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 16:27:06   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 16:27:51   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 16:27:51   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 16:28:08   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 16:28:08   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:00:06   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 17:00:07   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:00:53   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 17:00:54   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:12:10   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 17:12:11   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:33:16   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 17:33:16   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:33:26  ERROR [libs.ActionsWithElements] : Can not work with element
+2020-03-11 17:34:01   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 17:34:01   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:34:07   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:34:17   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 17:34:17   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:34:23   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:43:47   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 17:43:47   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:43:54   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:43:59  ERROR [screens.ResultScreen] : false
+2020-03-11 17:47:37   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 17:47:38   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:47:44   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:48:53   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 17:48:53   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:48:59   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:50:07   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 17:50:07   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:50:13   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:52:10   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 17:52:10   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:52:17   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:53:30   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 17:53:30   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:53:36   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:56:35   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 17:56:36   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:56:41   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:57:10   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 17:57:11   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:57:16   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:58:18   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 17:58:19   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:58:25   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 17:58:26   INFO [screens.ResultScreen] : Text are visible
+2020-03-11 18:00:15   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 18:00:15   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 18:00:21   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 18:00:22   INFO [screens.ResultScreen] : Text are visible
+2020-03-11 18:00:38   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 18:00:39   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 18:00:44   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 18:00:46   INFO [screens.ResultScreen] : Text are visible
+2020-03-11 18:01:34   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 18:01:34   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 18:01:40   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 18:01:42   INFO [screens.ResultScreen] : Text are visible
+2020-03-11 18:02:31   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 18:02:31   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 18:02:40   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 18:02:42   INFO [screens.ResultScreen] : Text are visible
+2020-03-11 18:03:11   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 18:03:11   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 18:03:18   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 18:03:20   INFO [screens.ResultScreen] : Text are visible
+2020-03-11 18:03:48   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 18:03:49   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 18:03:58   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 18:04:03  ERROR [screens.ResultScreen] : false
+2020-03-11 18:04:28   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 18:04:28   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 18:04:38   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 18:04:40   INFO [screens.ResultScreen] : Text are visible
+2020-03-11 18:05:23   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 18:05:23   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 18:05:29   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 18:05:31   INFO [screens.ResultScreen] : Text are visible
+2020-03-11 18:06:04   INFO [screens.MainScreen] : Input text are visible
+2020-03-11 18:06:04   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 18:06:14   INFO [libs.ActionsWithElements] : Element was clicked
+2020-03-11 18:06:16   INFO [screens.ResultScreen] : Text are visible
+2020-04-11 16:15:27   INFO [screens.MainScreen] : Input text are visible
+2020-04-11 16:15:28   INFO [libs.ActionsWithElements] : Element was clicked
+2020-04-11 16:15:30   INFO [libs.ActionsWithElements] : Element was clicked
+2020-04-11 16:15:33   INFO [screens.ResultScreen] : Text are visible
+2020-04-11 16:15:55   INFO [screens.MainScreen] : Input text are visible
+2020-04-11 16:15:55   INFO [libs.ActionsWithElements] : Element was clicked
+2020-04-11 16:15:58   INFO [libs.ActionsWithElements] : Element was clicked
+2020-04-11 16:15:59   INFO [screens.ResultScreen] : Text are visible
+2020-04-11 16:16:38   INFO [screens.MainScreen] : Input text are visible
+2020-04-11 16:16:39   INFO [libs.ActionsWithElements] : Element was clicked
+2020-04-11 16:16:41   INFO [libs.ActionsWithElements] : Element was clicked
+2020-04-11 16:16:43   INFO [screens.ResultScreen] : Text are visible
+2020-04-11 16:17:27   INFO [screens.MainScreen] : Input text are visible
+2020-04-11 16:17:28   INFO [libs.ActionsWithElements] : Element was clicked
+2020-04-11 16:17:30   INFO [libs.ActionsWithElements] : Element was clicked
+2020-04-11 16:17:37   INFO [screens.ResultScreen] : Text are visible
+2020-04-11 16:18:04   INFO [screens.MainScreen] : Input text are visible
+2020-04-11 16:18:04   INFO [libs.ActionsWithElements] : Element was clicked
+2020-04-11 16:18:07   INFO [libs.ActionsWithElements] : Element was clicked
+2020-04-11 16:18:15   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 12:11:40  ERROR [screens.MainScreen] : false
+2020-05-11 12:11:55   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 12:19:14  ERROR [screens.MainScreen] : false
+2020-05-11 12:19:28   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 12:27:57   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 12:27:59   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 12:28:12   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 12:43:30   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 12:43:31   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 12:43:46   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 12:43:50   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 13:10:49   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 13:10:50   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:11:01   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:11:18   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 13:11:19   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:11:28   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:13:11   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 13:13:12   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:13:20   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:13:22   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 13:13:37   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 13:13:37   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:13:41   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:13:43   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 13:17:27   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 13:17:31   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:17:39   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:17:41   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 13:20:13   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 13:20:13   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:20:20   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:20:22   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 13:21:28   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 13:21:28   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:21:32   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:21:34   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 13:25:39   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 13:25:40   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:26:01   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:26:03   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 13:28:29   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 13:28:31   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:28:49   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:28:54   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 13:30:06   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 13:30:08   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:30:23   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:30:32   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 13:30:47   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 13:30:48   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:30:52   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:30:54   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 13:32:38   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 13:32:38   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:32:50   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:32:52   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 13:33:03  ERROR [screens.MainScreen] : false
+2020-05-11 13:33:16   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:33:58   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 13:33:58   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:34:09   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:34:11   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 13:34:19  ERROR [screens.MainScreen] : false
+2020-05-11 13:34:29  ERROR [libs.ActionsWithElements] : Can not work with element
+2020-05-11 13:35:13   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 13:35:17   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:35:26   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:35:27   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 13:35:36  ERROR [screens.MainScreen] : false
+2020-05-11 13:35:54   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:37:12   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 13:37:13   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:37:21   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:37:23   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 13:37:36  ERROR [screens.MainScreen] : false
+2020-05-11 13:37:48   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:39:04   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 13:39:04   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:39:11   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:39:14   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 13:39:24   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 13:39:26   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:39:44   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 13:39:49   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 15:27:32   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 15:27:32   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 15:27:38   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 15:27:40   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 15:30:20   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 15:30:20   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 15:30:27   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 15:30:29   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 15:46:07   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 15:46:07   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 15:46:12  ERROR [libs.ActionsWithElements] : Can not work with element
+2020-05-11 15:49:30   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 15:49:30   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 15:49:36   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 15:50:21  ERROR [screens.MainScreen] : false
+2020-05-11 15:50:21  ERROR [libs.ActionsWithElements] : Can not work with element
+2020-05-11 15:50:25   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 15:50:26   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 15:50:33   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 15:50:35   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 15:51:26   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 15:51:26   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 15:51:27  ERROR [screens.MainScreen] : false
+2020-05-11 15:51:27  ERROR [libs.ActionsWithElements] : Can not work with element
+2020-05-11 15:51:35   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 15:51:37   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 15:55:40   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 15:55:41   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 15:55:45   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:02:02   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 16:02:02   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:02:06   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:02:55   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 16:02:56   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:03:00  ERROR [screens.MainScreen] : false
+2020-05-11 16:03:00   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:03:01   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:03:07   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:03:34  ERROR [screens.MainScreen] : false
+2020-05-11 16:03:34  ERROR [libs.ActionsWithElements] : Can not work with element
+2020-05-11 16:03:34   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 16:03:35   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:03:46   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:04:26   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 16:04:26   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:04:30   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:05:26   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 16:05:27   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:05:30   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:06:28   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 16:06:29   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:06:31   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:08:17  ERROR [screens.MainScreen] : false
+2020-05-11 16:08:17  ERROR [libs.ActionsWithElements] : Can not work with element
+2020-05-11 16:08:18   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 16:08:19   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:08:22   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:09:09  ERROR [screens.MainScreen] : false
+2020-05-11 16:09:09  ERROR [libs.ActionsWithElements] : Can not work with element
+2020-05-11 16:09:09   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 16:09:09   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:09:13   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:10:14   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 16:10:15   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:10:20   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:11:22  ERROR [screens.MainScreen] : false
+2020-05-11 16:11:22  ERROR [libs.ActionsWithElements] : Can not work with element
+2020-05-11 16:11:22   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 16:11:23   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:11:26   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:13:48  ERROR [screens.MainScreen] : false
+2020-05-11 16:13:49   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:13:51   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:13:52  ERROR [screens.MainScreen] : false
+2020-05-11 16:13:52  ERROR [libs.ActionsWithElements] : Can not work with element
+2020-05-11 16:19:30  ERROR [screens.MainScreen] : false
+2020-05-11 16:19:31   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:19:35   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:19:37   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 16:20:19  ERROR [screens.MainScreen] : false
+2020-05-11 16:20:19   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:20:28   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:20:30   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 16:20:58  ERROR [screens.MainScreen] : false
+2020-05-11 16:20:59   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:21:07   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:21:09   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 16:24:37   INFO [screens.MainScreen] : Input text are visible
+2020-05-11 16:24:38   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:24:42   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:24:43   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 16:54:12   INFO [screens.MainScreen] : Check text Input
+2020-05-11 16:54:12   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:54:23   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:54:25   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 16:55:40   INFO [screens.MainScreen] : Check text Input
+2020-05-11 16:55:41   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:55:46   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:55:48   INFO [screens.ResultScreen] : Text are visible
+2020-05-11 16:56:08   INFO [screens.MainScreen] : Check text Input
+2020-05-11 16:56:08   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:56:12   INFO [libs.ActionsWithElements] : Element was clicked
+2020-05-11 16:56:13   INFO [screens.ResultScreen] : Text are visible
+2020-06-11 09:52:18   INFO [screens.MainScreen] : Check text Input
+2020-06-11 09:52:18   INFO [libs.ActionsWithElements] : Element was clicked
+2020-06-11 09:52:22   INFO [libs.ActionsWithElements] : Element was clicked
+2020-06-11 09:52:24   INFO [screens.ResultScreen] : Text are visible
+2020-06-11 09:53:11   INFO [screens.MainScreen] : Check text Input
+2020-06-11 09:53:11   INFO [libs.ActionsWithElements] : Element was clicked
+2020-06-11 09:53:21   INFO [libs.ActionsWithElements] : Element was clicked
+2020-06-11 09:53:24   INFO [screens.ResultScreen] : Text are visible
+2020-06-11 12:41:17   INFO [screens.MainScreen] : Check text Input
+2020-06-11 12:41:17   INFO [libs.ActionsWithElements] : Element was clicked
+2020-06-11 12:41:32   INFO [libs.ActionsWithElements] : Element was clicked
+2020-06-11 12:41:34   INFO [screens.ResultScreen] : Text are visible
+2020-09-11 10:21:55   INFO [screens.MainScreen] : Check text Input
+2020-09-11 10:21:56   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 10:22:03   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 10:22:07   INFO [screens.ResultScreen] : Text are visible
+2020-09-11 10:57:04   INFO [screens.MainScreen] : Check text Input
+2020-09-11 10:57:04   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 10:57:13   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 10:57:16   INFO [screens.ResultScreen] : Text are visible
+2020-09-11 10:59:14   INFO [screens.MainScreen] : Check text Input
+2020-09-11 10:59:14   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 10:59:20   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 10:59:24   INFO [screens.ResultScreen] : Text are visible
+2020-09-11 14:12:59   INFO [screens.MainScreen] : Check text Input
+2020-09-11 14:13:00   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 14:13:05   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 14:13:10   INFO [screens.ResultScreen] : Text are visible
+2020-09-11 14:13:54   INFO [screens.MainScreen] : Check text Input
+2020-09-11 14:13:54   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 14:14:02   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 14:14:04   INFO [screens.ResultScreen] : Text are visible
+2020-09-11 14:16:46   INFO [screens.MainScreen] : Check text Input
+2020-09-11 14:16:46   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 14:16:51   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 14:16:55   INFO [screens.ResultScreen] : Text are visible
+2020-09-11 14:17:34   INFO [screens.MainScreen] : Check text Input
+2020-09-11 14:17:34   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 14:17:40   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 14:17:44   INFO [screens.ResultScreen] : Text are visible
+2020-09-11 15:22:40   INFO [screens.MainScreen] : Check text Input
+2020-09-11 15:22:41   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 15:22:49   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 15:22:55  ERROR [screens.ResultScreen] : false
+2020-09-11 15:25:52   INFO [screens.MainScreen] : Check text Input
+2020-09-11 15:25:52   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 15:25:59   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 15:26:02   INFO [screens.ResultScreen] : check Button test
+2020-09-11 15:26:29   INFO [screens.MainScreen] : Check text Input
+2020-09-11 15:26:30   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 15:26:35   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 15:26:38   INFO [screens.ResultScreen] : check Button test
+2020-09-11 15:35:24   INFO [screens.MainScreen] : Check text Input
+2020-09-11 15:35:24   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 15:35:30   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 15:35:34   INFO [screens.ResultScreen] : Check Button text
+2020-09-11 18:29:49   INFO [screens.MainScreen] : Check input text
+2020-09-11 18:29:50   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 18:29:58   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 18:30:02   INFO [screens.ResultScreen] : Check button text
+2020-09-11 18:42:02   INFO [screens.MainScreen] : Check input text
+2020-09-11 18:42:03   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-11 18:46:21   INFO [screens.MainScreen] : Check input text
+2020-09-11 18:46:21   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 11:38:05   INFO [screens.MainScreen] : Check input text
+2020-10-11 11:38:06   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 11:38:13  ERROR [libs.ActionsWithElements] : Can not work with element
+2020-10-11 11:39:30   INFO [screens.MainScreen] : Check input text
+2020-10-11 11:39:30   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 11:39:37   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 11:39:41   INFO [screens.ResultScreen] : Check button text
+2020-10-11 11:51:53   INFO [screens.MainScreen] : Check input text
+2020-10-11 11:51:53   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 11:51:58   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 11:52:02   INFO [screens.ResultScreen] : Check button text
+2020-10-11 12:01:13   INFO [screens.MainScreen] : Check input text
+2020-10-11 12:01:13   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 12:13:09   INFO [screens.MainScreen] : Check input text
+2020-10-11 12:13:10   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 12:19:40   INFO [screens.MainScreen] : Check input text
+2020-10-11 12:19:41   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 13:37:02   INFO [screens.MainScreen] : Check input text
+2020-10-11 13:37:03   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 13:58:00   INFO [screens.MainScreen] : Check input text
+2020-10-11 13:58:01   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:01:16   INFO [screens.MainScreen] : Check input text
+2020-10-11 14:01:17   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:01:24   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:01:27   INFO [screens.ResultScreen] : Check button text
+2020-10-11 14:02:25   INFO [screens.MainScreen] : Check input text
+2020-10-11 14:02:25   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:02:32   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:02:35   INFO [screens.ResultScreen] : Check button text
+2020-10-11 14:06:21   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 14:06:22   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:06:39  ERROR [libs.ActionsWithElements] : Can not work with element
+2020-10-11 14:08:26   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 14:08:27   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:09:38   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 14:09:38   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:10:52   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 14:10:52   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:27:17   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 14:27:17   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:27:23   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:34:45   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 14:34:45   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:36:18   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 14:36:19   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:36:24   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:36:38   INFO [screens.ResultScreen] : Check button text
+2020-10-11 14:39:12   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 14:39:12   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:40:11   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 14:40:11   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:47:37   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 14:47:38   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:47:42   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:48:37   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 14:48:37   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:48:41   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:50:29   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 14:50:30   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:50:36  ERROR [libs.ActionsWithElements] : Can not work with element
+2020-10-11 14:54:11   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 14:54:11   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:56:34   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 14:56:35   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:56:40   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:56:57   INFO [screens.ResultScreen] : Check button text
+2020-10-11 14:57:26   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 14:57:27   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:57:33   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 14:57:43   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:28:47   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:28:48   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:28:57   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:29:16   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:35:07   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:35:07   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:35:11   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:35:14   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:35:18   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:35:19   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:35:23   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:35:26   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:36:18   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:36:19   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:36:20   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:36:20   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:36:22   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:36:24   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:36:24   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:36:28   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:38:19   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:38:19   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:38:20   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:38:20   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:38:23   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:38:24   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:38:25   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:38:27   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:39:25   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:39:26   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:39:27   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:39:27   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:39:31   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:39:32   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:39:36   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:39:50   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:40:27   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:40:27   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:40:31   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:40:33   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:40:34   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:40:36   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:40:41   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:40:56   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:41:31   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:41:32   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:41:38   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:41:38   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:41:39   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:41:42   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:41:43   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:41:55   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:45:22   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:45:23   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:45:26   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:45:26   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:45:30   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:45:31   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:45:33   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:45:41   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:50:38   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:50:38   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:50:47   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:50:51   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:53:28   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:53:28   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:53:35   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:53:38   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:57:37   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:57:38   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:57:54   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:58:04   INFO [screens.ResultScreen] : Check button text
+2020-10-11 15:58:38   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 15:58:39   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:58:44   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 15:58:47   INFO [screens.ResultScreen] : Check button text
+2020-10-11 16:04:48   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 16:04:49   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 16:04:54   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 16:04:58   INFO [screens.ResultScreen] : Check button text
+2020-10-11 16:06:51   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 16:06:52   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 16:06:58   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 16:07:02   INFO [screens.ResultScreen] : Check button text
+2020-10-11 16:08:16   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 16:08:17   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 16:08:23   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 16:08:26   INFO [screens.ResultScreen] : Check button text
+2020-10-11 16:09:02   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 16:09:02   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 16:09:07   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 16:09:11   INFO [screens.ResultScreen] : Check button text
+2020-10-11 16:29:57   INFO [screens.MainScreen] : Check placeholder text
+2020-10-11 16:29:57   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 16:30:03   INFO [libs.ActionsWithElements] : Element was clicked
+2020-10-11 16:30:09   INFO [screens.ResultScreen] : Check button text
+2020-11-11 11:31:33   INFO [screens.MainScreen] : Check placeholder text
+2020-11-11 11:31:34   INFO [libs.ActionsWithElements] : Element was clicked
+2020-11-11 11:31:38   INFO [libs.ActionsWithElements] : Element was clicked
+2020-11-11 11:31:48   INFO [screens.ResultScreen] : Check button text
+2020-11-11 11:50:05   INFO [screens.MainScreen] : Check placeholder text
+2020-11-11 11:50:06   INFO [libs.ActionsWithElements] : Element was clicked
+2020-11-11 11:50:11   INFO [libs.ActionsWithElements] : Element was clicked
+2020-11-11 11:50:16   INFO [screens.ResultScreen] : Check button text
+2020-11-11 11:51:54   INFO [screens.MainScreen] : Check placeholder text
+2020-11-11 11:51:54   INFO [libs.ActionsWithElements] : Element was clicked
+2020-11-11 11:52:02   INFO [libs.ActionsWithElements] : Element was clicked
+2020-11-11 11:52:05   INFO [screens.ResultScreen] : Check button text
+2020-13-11 11:49:49   INFO [screens.MainScreen] : Check placeholder text
+2020-13-11 11:49:50   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 11:49:53   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 11:51:58   INFO [screens.MainScreen] : Check placeholder text
+2020-13-11 11:51:59   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 11:52:03   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 12:28:41   INFO [screens.MainScreen] : Check placeholder text
+2020-13-11 12:28:42   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 12:28:42   INFO [screens.MainScreen] : Check placeholder text
+2020-13-11 12:28:43   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 12:28:46   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 12:28:48   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 12:30:27   INFO [screens.MainScreen] : Check placeholder text
+2020-13-11 12:30:28   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 12:30:29   INFO [screens.MainScreen] : Check placeholder text
+2020-13-11 12:30:29   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 12:30:31   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 12:30:33   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 12:30:35   INFO [screens.ResultScreen] : Check button text
+2020-13-11 12:32:05   INFO [screens.MainScreen] : Check placeholder text
+2020-13-11 12:32:06   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 12:32:06   INFO [screens.MainScreen] : Check placeholder text
+2020-13-11 12:32:07   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 12:32:09   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 12:32:11   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 12:32:11   INFO [screens.ResultScreen] : Check button text
+2020-13-11 12:32:14   INFO [screens.ResultScreen] : Check button text
+2020-13-11 12:33:08   INFO [screens.MainScreen] : Check placeholder text
+2020-13-11 12:33:09   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 12:33:09   INFO [screens.MainScreen] : Check placeholder text
+2020-13-11 12:33:10   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 12:33:12   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 12:33:14   INFO [screens.ResultScreen] : Check button text
+2020-13-11 12:33:15   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-11 12:33:16   INFO [screens.ResultScreen] : Check button text
+2020-21-11 19:07:03   INFO [screens.MainScreen] : Check placeholder text
+2020-21-11 19:07:04   INFO [libs.ActionsWithElements] : Element was clicked
+2020-21-11 19:07:07   INFO [libs.ActionsWithElements] : Element was clicked
+2020-21-11 19:07:15   INFO [screens.ResultScreen] : Check button text
+2020-21-11 19:07:44   INFO [screens.MainScreen] : Check placeholder text
+2020-21-11 19:07:44   INFO [libs.ActionsWithElements] : Element was clicked
+2020-21-11 19:07:47   INFO [libs.ActionsWithElements] : Element was clicked
+2020-21-11 19:07:55   INFO [screens.ResultScreen] : Check button text
+2020-21-11 19:08:24   INFO [screens.MainScreen] : Check placeholder text
+2020-21-11 19:08:25   INFO [libs.ActionsWithElements] : Element was clicked
+2020-21-11 19:08:28   INFO [libs.ActionsWithElements] : Element was clicked
+2020-21-11 19:08:30   INFO [screens.ResultScreen] : Check button text
+2020-23-11 16:29:47   INFO [screens.MainScreen] : Check placeholder text
+2020-23-11 16:29:49   INFO [libs.ActionsWithElements] : Element was clicked
+2020-23-11 16:29:59   INFO [libs.ActionsWithElements] : Element was clicked
+2020-23-11 16:30:52   INFO [screens.MainScreen] : Check placeholder text
+2020-23-11 16:30:52   INFO [libs.ActionsWithElements] : Element was clicked
+2020-23-11 16:30:55   INFO [libs.ActionsWithElements] : Element was clicked
+2020-23-11 16:31:36   INFO [screens.MainScreen] : Check placeholder text
+2020-23-11 16:31:36   INFO [libs.ActionsWithElements] : Element was clicked
+2020-23-11 16:31:40   INFO [libs.ActionsWithElements] : Element was clicked
+2020-23-11 16:31:43   INFO [screens.ResultScreen] : Check button text
+2020-23-11 16:32:20   INFO [screens.MainScreen] : Check placeholder text
+2020-23-11 16:32:21   INFO [libs.ActionsWithElements] : Element was clicked
+2020-23-11 16:32:23   INFO [libs.ActionsWithElements] : Element was clicked
+2020-23-11 16:32:26   INFO [screens.ResultScreen] : Check button text
+2020-23-11 16:33:07   INFO [screens.MainScreen] : Check placeholder text
+2020-23-11 16:33:07   INFO [libs.ActionsWithElements] : Element was clicked
+2020-23-11 16:33:10   INFO [libs.ActionsWithElements] : Element was clicked
+2020-23-11 16:33:13   INFO [screens.ResultScreen] : Check button text
+2020-25-11 10:13:06   INFO [screens.MainScreen] : Check placeholder text
+2020-25-11 10:13:06   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 10:13:10   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 10:13:13   INFO [screens.ResultScreen] : Check button text
+2020-25-11 10:14:22   INFO [screens.MainScreen] : Check placeholder text
+2020-25-11 10:14:22   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 10:14:25   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 10:14:27   INFO [screens.ResultScreen] : Check button text
+2020-25-11 10:14:55   INFO [screens.MainScreen] : Check placeholder text
+2020-25-11 10:14:56   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 10:14:59   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 10:15:05   INFO [screens.ResultScreen] : Check button text
+2020-25-11 14:52:29   INFO [screens.MainScreen] : Check placeholder text
+2020-25-11 14:52:30   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 14:52:32   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 14:52:43   INFO [screens.ResultScreen] : Check button text
+2020-25-11 14:53:37   INFO [screens.MainScreen] : Check placeholder text
+2020-25-11 14:53:37   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 14:53:41   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 14:54:33   INFO [screens.MainScreen] : Check placeholder text
+2020-25-11 14:54:33   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 14:54:36   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 14:54:41   INFO [screens.ResultScreen] : Check button text
+2020-25-11 14:57:59   INFO [screens.MainScreen] : Check placeholder text
+2020-25-11 14:57:59   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 14:58:03   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 14:58:06   INFO [screens.ResultScreen] : Check button text
+2020-25-11 14:58:47   INFO [screens.MainScreen] : Check placeholder text
+2020-25-11 14:58:48   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 14:58:48   INFO [screens.MainScreen] : Check placeholder text
+2020-25-11 14:58:49   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 14:58:51   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 14:58:52   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 14:58:54   INFO [screens.ResultScreen] : Check button text
+2020-25-11 14:58:54   INFO [screens.ResultScreen] : Check button text
+2020-25-11 14:59:41   INFO [screens.MainScreen] : Check placeholder text
+2020-25-11 14:59:41   INFO [screens.MainScreen] : Check placeholder text
+2020-25-11 14:59:41   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 14:59:41   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 14:59:44   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 14:59:45   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 14:59:46   INFO [screens.ResultScreen] : Check button text
+2020-25-11 14:59:47   INFO [screens.ResultScreen] : Check button text
+2020-25-11 18:25:50   INFO [screens.MainScreen] : Check placeholder text
+2020-25-11 18:25:51   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 18:25:55   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 18:25:58   INFO [screens.ResultScreen] : Check button text
+2020-25-11 18:28:46   INFO [screens.MainScreen] : Check placeholder text
+2020-25-11 18:28:46   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 18:28:50   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 18:28:52   INFO [screens.ResultScreen] : Check button text
+2020-25-11 18:29:17   INFO [screens.MainScreen] : Check placeholder text
+2020-25-11 18:29:18   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 18:29:23   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-11 18:29:25   INFO [screens.ResultScreen] : Check button text
+2020-25-11 18:29:56   INFO [screens.MainScreen] : Check placeholder text
+2020-25-11 18:30:38   INFO [screens.MainScreen] : Check placeholder text
+2020-25-11 18:30:38   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 11:28:30   INFO [screens.MainScreen] : Check placeholder text
+2020-26-11 11:28:30   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 11:28:33   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 11:28:35   INFO [screens.ResultScreen] : Check button text
+2020-26-11 11:29:08   INFO [screens.MainScreen] : Check placeholder text
+2020-26-11 11:29:08   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 11:30:02   INFO [screens.MainScreen] : Check placeholder text
+2020-26-11 11:30:03   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 11:36:04   INFO [screens.MainScreen] : Check placeholder text
+2020-26-11 11:36:04   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 11:36:07   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 11:36:09   INFO [screens.ResultScreen] : Check button text
+2020-26-11 11:44:45   INFO [screens.MainScreen] : Check placeholder text
+2020-26-11 11:44:46   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 11:44:49   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 11:44:52   INFO [screens.ResultScreen] : Check button text
+2020-26-11 14:06:26   INFO [screens.MainScreen] : Check placeholder text
+2020-26-11 14:06:26   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 14:06:29   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 14:06:33   INFO [screens.ResultScreen] : Check button text
+2020-26-11 14:07:01   INFO [screens.MainScreen] : Check placeholder text
+2020-26-11 14:07:01   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 14:07:04   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 14:07:06   INFO [screens.ResultScreen] : Check button text
+2020-26-11 14:08:28   INFO [screens.MainScreen] : Check placeholder text
+2020-26-11 14:08:28   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 14:08:31   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 14:08:33   INFO [screens.ResultScreen] : Check button text
+2020-26-11 16:22:17   INFO [screens.MainScreen] : Check placeholder text
+2020-26-11 16:22:18   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 16:22:23   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 16:22:24   INFO [screens.ResultScreen] : Check button text
+2020-26-11 17:35:23   INFO [screens.MainScreen] : Check placeholder text
+2020-26-11 17:35:23   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 17:35:28   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 17:35:30   INFO [screens.ResultScreen] : Check button text
+2020-26-11 17:36:56   INFO [screens.MainScreen] : Check placeholder text
+2020-26-11 17:36:57   INFO [libs.ActionsWithElements] : Element was clicked
+2020-26-11 17:37:53   INFO [screens.MainScreen] : Check placeholder text
+2020-26-11 17:37:53   INFO [libs.ActionsWithElements] : Element was clicked

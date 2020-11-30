@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Android Parallel Test Suite" parallel="tests" thread-count="2">
+    <test name = "Test1">
+        <parameter name="url" value="http://0.0.0.0:4723/wd/hub"/>
+        <parameter name="DEVICE_NAME" value="00b0b4d0b06fcf65"/>
+        <parameter name="platformVersion" value="8"/>
+        <classes>
+            <class name="playMarket.Demo_Test">
+            </class>
+        </classes>
+    </test>
+    <test name = "Test2">
+        <parameter name="url" value="http://0.0.0.0:4723/wd/hub"/>
+        <parameter name="DEVICE_NAME" value="UEEDU18927000337"/>
+        <parameter name="platformVersion" value="9"/>
+        <classes>
+            <class name="playMarket.Demo_Test">
+            </class>
+        </classes>
+    </test>
+</suite>
