@@ -37,7 +37,6 @@ public class DriverBase {
         resultScreen = new ResultScreen(driver);
     }
 
-
     @AfterTest
     public void tearDown() {
         driver.quit();
